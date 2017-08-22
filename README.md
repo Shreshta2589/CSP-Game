@@ -1,4 +1,5 @@
-# CSP-Game
+# Map-Coloring-Game
+
 Adversarial Constraint Satisfaction by Game-tree Search
 
 
